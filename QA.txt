@@ -1,0 +1,678 @@
+ What is Unix?
+a) Unix is a programming language
+b) Unix is a software program
+c) Unix is an operating system
+d) Unix is a text editor
+View Answer
+
+2. The Unix shell is both _______ and _______ language.
+a) scripting, interpreter
+b) high level, low level
+c) interactive, responsive
+d) interpreter, executing
+View Answer
+
+3. In which language UNIX is written?
+a) C++
+b) C
+c) JAVA
+d) Python
+View Answer
+
+4. Which of the following is the first UNIX editor?
+a) vi
+b) emacs
+c) ex
+d) ed
+View Answer
+
+5. Which of the following is not a feature of Unix?
+a) multiuser
+b) easy to use
+c) multitasking
+d) portability
+View Answer
+
+advertisement
+6. Which of the following is not true about Unix?
+a) UNIX was not written in ‘C’ language
+b) Linux is also known as a version of UNIX
+c) A user can run multiple programs at the same time; hence UNIX is called a multitasking environment
+d) Many people can use a UNIX based computer at the same time; hence UNIX is called as a multiuser system
+View Answer
+
+7. Which editor is used by the Unix system to edit files?
+a) word
+b) notepad++
+c) vi
+d) notepad
+View Answer
+
+8. Which of the following is not a part of all the versions of Unix?
+a) System Calls
+b) Graphical user interface
+c) Kernel and Shell
+d) Commands and utilities
+View Answer
+
+9. Which part of the Unix operating system interacts with the hardware?
+a) Application program
+b) Vi editor
+c) Shell
+d) Kernel
+View Answer
+
+10. Which command is used to display the documentation of commands in Unix?
+a) man
+b) whatis
+c) help
+d) search
+View Answer
+
+11. Which Unix command is used for changing the current directory?
+a) pwd
+b) rm
+c) cd
+d) cp
+View Answer
+
+12. Which command is used for printing the current working directory?
+a) dir
+b) HOME
+c) cd
+d) pwd
+View Answer
+
+13. Which command is used for listing files in a directory?
+a) list
+b) ls
+c) wc
+d) ps
+View Answer
+
+14. Which command is used by the user to change their login password in Unix?
+a) cp
+b) man
+c) reset
+d) passwd
+View Answer
+
+15. Which command is used for displaying the contents of a file in Unix?
+a) mkdir
+b) cat
+c) rm
+d) cp
+View Answer
+
+16. Which command is used to compress files?
+a) gzip
+b) gunzip
+c) comm
+d) cmp
+View Answer
+
+17. Which command is used for displaying the beginning of a file in Unix?
+a) lp
+b) begin
+c) pr
+d) head
+View Answer
+
+18. Which symbol is used with the tail command to print the file from the selected line?
+a) %%
+b) ^
+c) +
+d) –
+View Answer
+
+19. Which command is used to delete all files in a directory?
+a) del *
+b) rm *
+c) mv *
+d) rmdir *
+View Answer
+
+20. echo command is used for _________
+a) displaying diagnostic messages
+b) displaying date and time
+c) displaying errors
+d) displaying operating system details
+View Answer
+
+21. What is the function of cp command in Unix?
+a) delete a given file
+b) change the directory
+c) list all the available files in the current directory
+d) cp is a command used for copying files and directories
+View Answer
+
+22. Which command is used for removing/deleting files in Unix?
+a) rm
+b) mv
+c) rmdir
+d) del
+View Answer
+
+23. Which command is used for renaming files in Unix?
+a) rename
+b) move
+c) mv
+d) cp
+View Answer
+
+24. Which command is used for comparing two files?
+a) comp
+b) cmp
+c) comm
+d) diff
+View Answer
+
+25. Which Unix command is used for counting words, lines, and characters in a file?
+a) wc
+b) man
+c) count
+d) diff
+View Answer
+
+26. In UNIX, which command is used to change the permissions of a file?
+a) chown
+b) chgrp
+c) chmod
+d) ch
+View Answer
+
+27. Which symbol is used to change permissions for hidden files in Unix?
+a) *
+b) $
+c) &
+d) .
+View Answer
+
+28. Which command is used for saving and quitting the vi editor simultaneously?
+a) ‘:x’
+b) :f
+c) :q
+d) :w
+View Answer
+
+29. How can we escape to the UNIX shell without quitting vi editor?
+a) using ‘:sh’ command and using ctrl-Z
+b) using ‘:sh’ command
+c) using ctrl-Z
+d) using ctrl-D
+View Answer
+
+30. For creating and removing directories, which of the following system calls are used?
+a) mkdir and rmdir
+b) rmdir and chown
+c) chdir and chown
+d) mkdir and chdir
+View Answer
+
+31. Which of the following files are known as special files in Unix?
+a) /dev/null
+b) sample.txt
+c) /dev/null and /dev/tty
+d) /dev/tty
+View Answer
+
+32. What is the output of the following Unix command?
+
+$ wc  -c  *.c
+a) size of each .c file
+b) total size of .c files
+c) erroneous
+d) undefined
+View Answer
+
+33. In Unix, for what purpose bc command is used?
+a) for copying files
+b) as a process table viewer
+c) as an editor
+d) as a calculator
+View Answer
+
+34. Which process is immediately set up by the kernel when we log on to a Unix system?
+a) System
+b) bash
+c) shell
+d) parent
+View Answer
+
+35. Which command shows some attributes of a process?
+a) HOME
+b) ps
+c) $$
+d) pid
+View Answer
+
+36. Which of the following system call is used for creating a new process in Unix?
+a) new
+b) wait
+c) read
+d) fork
+View Answer
+
+37. Which of the following command is used to create a child shell?
+a) sh
+b) env
+c) wait
+d) fork
+View Answer
+
+38. Which Unix command is used for locating files?
+a) type
+b) loc
+c) find
+d) search
+View Answer
+
+39. Which command is used for preparing a file for printing?
+a) pr
+b) print
+c) cat
+d) cd
+View Answer
+
+40. Which command is used for sorting a file on specified fields?
+a) pr
+b) cut
+c) tail
+d) sort
+View Answer
+
+41. Which Unix command is used for locating repeated and non-repeated lines?
+a) cut
+b) paste
+c) uniq
+d) sort
+View Answer
+
+42. Which command is used for translating characters?
+a) paste
+b) tr
+c) trans
+d) sort
+View Answer
+
+43. Which of the following command will be used for searching “director” in emp.lst?
+a) grep “director” emp.lst
+b) grep -director emp.lst
+c) grep -v “director” emp.lst
+d) grep “director”
+View Answer
+
+44. Which of the following command is used for searching for a pattern in one or more file(s)?
+a) paste
+b) grep
+c) cd
+d) cp
+View Answer
+
+45. Which of the following commands is known as stream editor?
+a) grep
+b) tr
+c) sed
+d) td
+View Answer
+
+46. What is a shell script?
+a) group of functions
+b) a file containing a series of commands
+c) a file containing special symbols
+d) group of commands
+View Answer
+
+47. To run the script, we should make it executable first by using _____
+a) chmod +w
+b) chmod +rwx
+c) chmod +x
+d) chmod +r
+View Answer
+
+48. Which command is used for acquiring superuser status?
+a) su
+b) pu
+c) super
+d) admn
+View Answer
+
+49. Which command is used to find out the consumption of a specific directory?
+a) mem
+b) dv
+c) du
+d) df
+View Answer
+
+50. Which filter apart from perl, is the most powerful?
+a) awk
+b) grep
+c) cut
+d) sed
+View Answer
+
+51. For running a Unix command within awk, we’ve to use ____ function.
+a) split
+b) system
+c) substr
+d) length
+View Answer
+
+52. To extract specific columns from a file ____ command is used.
+a) cut
+b) pr
+c) head
+d) tail
+View Answer
+
+53. Which of the following cannot be performed by cat command?
+a) appending files
+b) deleting files
+c) creating files
+d) displaying files
+View Answer
+
+54. What is the default delimiter used by the cut command for cutting fields?
+a) underscore
+b) space
+c) tab
+d) double tab
+View Answer
+
+55. Which of the following is not an internal command used by mailx?
+a) d
+b) N
+c) a
+d) q
+View Answer
+
+
+
+Chapterwise Multiple Choice Questions on Unix
+Unix MCQ - Multiple Choice Questions and Answers
+
+Our 1000+ MCQs focus on all topics of the Unix subject, covering 100+ topics. This will help you to prepare for exams, contests, online tests, quizzes, viva-voce, interviews, and certifications. You can also download the PDF of Unix MCQs by applying below.
+Unix Architecture & General Purpose Utilities
+File System
+Handling Ordinary Files
+Basic File Attributes
+Vi Editor
+Shell
+Process
+Customizing the Environment & More File Attributes
+Simple Filters
+Filters using Regular Expressions
+Essential Shell Programming
+Awk – An Advanced Filter & Perl – Master Manipulator
+Advanced Vi
+System Programming – Files
+Process Control & Unix System Performance
+
+1. Unix MCQ on Architecture & General Purpose Utilities
+The section contains Unix multiple choice questions and answers on unix introduction, commands and general purpose commands.
+
+Unix Basics
+Unix Commands
+Unix General Purpose Commands – 1
+Unix General Purpose Commands – 2
+
+2. Unix MCQ on File System
+The section contains Unix questions and answers on files categories, pwd and cd commands for file handling, is command for listing directory contents, absolute and relative pathnames.
+
+File Categories
+File Handling Commands: pwd, cd
+Absolute and Relative Pathnames
+ls Command
+
+3. Unix MCQ on Handling Ordinary Files
+The section contains Unix MCQs on cat command, cp command, rm and mv command for deleting and renaming files, comparing files, wc command for counting file data, compressing and archiving files.
+
+Displaying and Creating Files – cat Command
+Copying a File – cp Command
+rm and mv Command
+comm, cmp and diff Command
+Counting File Data – wc Command
+Compressing & Archiving Files – 1
+Compressing & Archiving Files – 2
+
+4. Multiple Choice Questions on Unix Basic File Attributes
+The section contains Unix multiple choice questions and answers on listing file and directory attributes, file ownership and permissions.
+
+Listing File & Directory Attributes
+File Ownership and Permissions
+Changing File Ownership and Permissions – 1
+Changing File Ownership and Permissions – 2
+
+5. Unix MCQ on Vi Editor
+The section contains Unix questions and answers on vi basics and modes, vi input mode, vi ex mode, vi editor navigation, vi editor editing text, commands for searching, replacing and substituting in vi editor.
+
+Vi Basics and Modes – 1
+Vi Basics and Modes – 2
+Vi-Input Mode
+Vi-Ex Mode – 1
+Vi-Ex Mode – 2
+Navigation in Vi Editor – 1
+Navigation in Vi Editor – 2
+Editing Text in Vi Editor – 1
+Editing Text in Vi Editor – 2
+Commands for Searching, Replacing and Substituting in Vi Editor
+
+6. Unix Multiple Choice Questions on Shell
+The section contains Unix MCQs on shell basics, pattern matching, escaping and quoting, redirection and pipes, command substitution and shell variables.
+
+Shell Basics
+Pattern Matching, Escaping and Quoting – 1
+Pattern Matching, Escaping and Quoting – 2
+Redirection and Pipes – 1
+Redirection and Pipes – 2
+Command Substitution and Shell Variables
+
+7. Unix MCQ on Process
+The section contains Unix multiple choice questions and answers on process basics, process status, process handling commands and process management.
+
+Unix Process Basics
+Process Status:ps Command and Phases of a Process
+Process Handling Commands – 1
+Process Handling Commands – 2
+Process Management – 1
+Process Management – 2
+
+8. Unix MCQ on Customizing the Environment & More File Attributes
+The section contains Unix questions and answers on shell variables, shell offerings, advanced file handling commands and find command.
+
+Shell Variables – 1
+Shell Variables – 2
+Shell Offerings
+Advanced File Handling Commands
+find Command
+
+9. Multiple Choice Questions on Unix Simple Filters
+The section contains Unix MCQs on filtering commands, sort command, unique and tr commands.
+
+Filtering Commands – 1
+Filtering Commands – 2
+Sort Command
+Unique and tr Command
+
+10. Unix MCQ on Filters using Regular Expressions
+The section contains Unix multiple choice questions and answers on grep and sed commands.
+
+grep Command – 1
+grep Command – 2
+sed Command – 1
+sed Command – 2
+
+11. Unix MCQ on Essential Shell Programming
+The section contains Unix questions and answers on shell programming using read command and command line arguments, logical operators and conditional execution, using test and [ ] to evaluate expressions, case and expr commands, administrator specific commands and privileges.
+
+read Command and Command Line Arguments
+Logical Operators and Conditional Execution
+Using test and [ ] to Evaluate Expressions – 1
+Using test and [ ] to Evaluate Expressions – 2
+Case and Expr command
+Shell Programming using Various Commands – 1
+Shell Programming using Various Commands – 2
+Administrator Specific Commands and Privileges – 1
+Administrator Specific Commands and Privileges – 2
+Administrator Specific Commands and Privileges – 3
+
+12. Unix MCQ on Awk – An Advanced Filter & Perl – Master Manipulator
+The section contains Unix MCQs on awk command operations and perl a general purpose tool.
+
+Various Operations using Awk Command – 1
+Various Operations using Awk Command – 2
+Various Operations using Awk Command – 3
+perl – A General Purpose Tool – 1
+perl – A General Purpose Tool – 2
+
+13. Unix MCQ on Advanced Vi
+The section contains Unix multiple choice questions and answers on operator command combinations, customizing vi editor, handling multiple files and buffers.
+
+Operator-Command Combination
+Handling Multiple Files & Buffers
+Customizing Vi Editor
+
+14. Unix MCQ on System Programming I – Files
+The section contains Unix questions and answers on system calls basics and file handling system calls.
+
+System Calls Basics – 1
+System Calls Basics – 2
+File Handling System Calls – 1
+File Handling System Calls – 2
+
+15. Unix MCQ on Process Control & Unix System Performance
+The section contains Unix MCQs on process control basics, process control system calls, performance components and tools.
+
+Process Control Basics
+Process Control System Calls – 1
+Process Control System Calls – 2
+Performance Components and Tools
+If you would like to learn "Unix" thoroughly, you should attempt to work on the complete set of 1000+ MCQs - multiple choice questions and answers mentioned above. It will immensely help anyone trying to crack an exam or an interview.
+
+Note: We are working on pdf download for Unix MCQs and will publish the download link here. Fill this Unix mcq pdf download request form for download notification.
+
+Wish you the best in your endeavor to learn and master Unix!
+Best Books on Unix:
+Unix Books
+Unix and Shell Programming Books
+Unix System Programming Books
+Unix Environment Books
+Unix Online Tests:
+Unix Tests
+Unix Certification Test
+Unix Internship Test
+Unix Job Test
+Unix Qualifier Test
+Unix Top Rankers
+Unix Practice Test – Set 1
+Unix Practice Test – Set 2
+Unix Practice Test – Set 3
+Unix Practice Test – Set 4
+Unix Practice Test – Set 5
+Unix Practice Test – Set 6
+Unix Practice Test – Set 7
+Unix Practice Test – Set 8
+Unix Practice Test – Set 9
+Unix Practice Test – Set 10
+Unix Mock Test – Set 1
+Unix Mock Test – Set 2
+Unix Mock Test – Set 3
+Unix Mock Test – Set 4
+Unix Mock Test – Set 5
+Unix Mock Test – Set 6
+Unix Mock Test – Set 7
+Unix Mock Test – Set 8
+Unix Mock Test – Set 9
+Unix Mock Test – Set 10
+Important Links:
+Unix Contest
+Unix Internship
+Operating System Multiple Choice Questions
+Linux Multiple Choice Questions
+Computer Science Multiple Choice Questions
+Manish Bhojasia - Founder & CTO at SanfoundryManish Bhojasia, a technology veteran with 20+ years @ Cisco & Wipro, is Founder and CTO at Sanfoundry. He lives in Bangalore, and focuses on development of Linux Kernel, SAN Technologies, Advanced C, Data Structures & Alogrithms. Stay connected with him at LinkedIn.
+
+Subscribe to his free Masterclasses at Youtube & technical discussions at Telegram SanfoundryClasses.
+Interview Preparation
+Dynamic Programming Problems-Solutions
+1000 C Problems-Algorithms-Solutions
+1000 C++ Problems-Algorithms-Solutions
+1000 Java Problems-Algorithms-Solutions
+1000 Python Problems-Solutions
+1000 Data Structures & Algorithms I MCQs
+1000 Data Structures & Algorithms II MCQs
+1000 Python MCQs
+1000 Java MCQs
+1000 C++ MCQs
+1000 C MCQs
+1000 C# MCQs
+1000 Basic C Programs
+1000 Basic C# Programs
+1000 Basic Java Programs
+Branch wise MCQs
+50k Computer Science MCQs
+50k Programming MCQs
+50k Information Technology MCQs
+50k Information Science MCQs
+50k Electronics & Communication Engg MCQs
+50k Electrical & Electronics MCQs
+50k Electrical Engineering MCQs
+50k Mechanical Engineering MCQs
+50k Civil Engineering MCQs
+50k Chemical Engineering MCQs
+50k Metallurgical Engineering MCQs
+50k Instrumentation Engineering MCQs
+50k Mechatronics Engineering MCQs
+50k Biotechnology MCQs
+50k Aeronautical Engineering MCQs
+50k Aerospace Engineering MCQs
+50k Mining Engineering MCQs
+50k Marine Engineering MCQs
+50k Agricultural Engineering MCQs
+50k MCA MCQs
+50k BCA MCQs
+
+Related Topics
+Linux MCQ PDF Download
+Automata Theory MCQ PDF Download
+JavaScript MCQ PDF Download
+Visual Basic MCQ PDF Download
+Computer Science MCQ PDF Download
+Popular Pages
+Compiler Design MCQ Questions
+Operating System MCQ Questions
+R Programming MCQ Questions
+Programming MCQ Questions
+Embedded Systems MCQ Questions
+About | Certifications | Internships | Jobs | Privacy Policy | Terms | Copyright | Contact
+© 2011-2023 Sanfoundry. All Rights Reserved.
+Home
+Branchwise MCQs
+School MCQs
+Rank
+Contests
+Internship
+Training
+Videos
+Books
+Interview Preparation
+Dynamic Programming Problems-Solutions
+1000 C Problems-Algorithms-Solutions
+1000 C++ Problems-Algorithms-Solutions
+1000 Java Problems-Algorithms-Solutions
+1000 Python Problems-Solutions
+1000 Data Structures & Algorithms I MCQs
+1000 Data Structures & Algorithms II MCQs
+1000 Python MCQs
+1000 Java MCQs
+1000 C++ MCQs
+1000 C MCQs
+1000 C# MCQs
+1000 Basic C Programs
+1000 Basic C# Programs
+1000 Basic Java Programs
+
+Support Sanfoundry by disabling your adblocker.
+Advertisements help us provide users like you 1000's of technical questions & answers, algorithmic codes and programming examples. Thank you.
+Disable my adblocker
+Need help? Contact support
